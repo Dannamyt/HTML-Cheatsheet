@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(153, 159, 182);
+}
+
+h1 {
+    color: rgb(9, 14, 24);
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+
+table {
+    width: 100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+table,
+td,
+th {
+    border: 0.5px solid #181414;
+    text-align: left;
+    padding: 5px;
+    color: black;
+}
+
+h2 {
+    margin: 20px;
+    font-weight: 800px;
+    color: rgb(38, 24, 75);
+    margin-left: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+.heading {
+    color: rgb(158, 139, 182);
+    border: 2px solid rgb(224, 197, 197);
+    background-color: rgb(42, 12, 70);
+    font-size: 16px;
+    font-family: Joan;
+    text-align: center;
+}
+
+.tags {
+    font-size: 16px;
+    font-family: monospace;
+    text-align: center;
+}
