@@ -46,6 +46,11 @@ h2 {
 
 .tags {
     font-size: 16px;
-    font-family: monospace;
+    font-family: sans-serif;
     text-align: center;
+}
+
+.col {
+    background-color: aliceblue;
+    font-family: monospace;
 }
